@@ -1,11 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/raju_khunt">
-  <img align="left" alt="Raju Khunt | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rajukhunt/">
-  <img align="left" alt="Raju Khunt" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Twitter: raju_khunt](https://img.shields.io/twitter/follow/raju_khunt?style=social)](https://twitter.com/raju_khunt)
+[![Linkedin: rajukhunt](https://img.shields.io/badge/-rkrajukhunt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajukhunt/)](https://www.linkedin.com/in/rajukhunt/)
+[![GitHub rkrajukhunt](https://img.shields.io/github/followers/rkrajukhunt?label=follow&style=social)](https://github.com/rkrajukhunt)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rkrajukhunt.rkrajukhunt)

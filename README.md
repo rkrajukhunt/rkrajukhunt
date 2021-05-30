@@ -4,10 +4,7 @@
 [![Linkedin: rajukhunt](https://img.shields.io/badge/-rkrajukhunt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajukhunt/)](https://www.linkedin.com/in/rajukhunt/)
 [![GitHub rkrajukhunt](https://img.shields.io/github/followers/rkrajukhunt?label=follow&style=social)](https://github.com/rkrajukhunt)
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=rkrajukhunt.rkrajukhunt)
-
-<br />
 
 Hi, I'm Raju Khunt, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
